@@ -1,2 +1,3 @@
 # vue-crud-with-search
-Created with CodeSandbox
+
+Simple Vuejs CRUD with searching
